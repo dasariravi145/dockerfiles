@@ -1,4 +1,4 @@
 FROM almalinux:9
 LABEL COURSE="Docker" \
-      TRAINER="SivaKumer" \
+      TRAINER="ravi dasari" \
       DURATION="10HRs"
