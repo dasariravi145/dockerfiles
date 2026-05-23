@@ -1,5 +1,5 @@
 FROM almalinux:9
-LABEL COURSE="Docker" \
+ARG COURSE="Docker" \
       TRAINER="ravi dasari" \
       DURATION="10HRs"
 
