@@ -1,2 +1,2 @@
-from python:3.10-slim
+from  redhat/ubi9
 
